@@ -50,4 +50,4 @@ Version 1.0 of this project is optimised for IE9 and above. If you still require
 Copyright &copy; 2014-19 [David J. Bradshaw](https://github.com/davidjbradshaw).
 Licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
-[![NPM](https://nodei.co/npm/image-map-resizer.png)](https://nodei.co/npm/image-map-resizer/)
+[![NPM](https://nodei.co/npm/image-map-resizer.png)](https://nodei.co/npm/image-map-resizer/) [![Greenkeeper badge](https://badges.greenkeeper.io/davidjbradshaw/image-map-resizer.svg)](https://greenkeeper.io/)
